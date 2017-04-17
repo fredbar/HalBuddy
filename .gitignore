@@ -1,0 +1,14 @@
+*~
+*.tar*
+*.new
+*.bak
+*-bak
+*.bck
+*.tmp
+*.FCStd1
+build/
+dist/
+nbproject/private
+src/*.org
+src/*.old
+src/*.debug
